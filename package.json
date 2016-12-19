@@ -1,0 +1,22 @@
+{
+  "name": "webhookconfig",
+  "version": "1.0.0",
+  "description": "GitHub 配置 Webhook",
+  "main": "deploy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nutlee/WebhookConfig.git"
+  },
+  "author": "Nutlee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Nutlee/WebhookConfig/issues"
+  },
+  "homepage": "https://github.com/Nutlee/WebhookConfig#readme",
+  "devDependencies": {
+    "github-webhook-handler": "^0.6.0"
+  }
+}
